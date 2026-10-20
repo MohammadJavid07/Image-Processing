@@ -7,4 +7,3 @@ from PIL import Image
 img = array(Image.open(r"D:\Python Codes and Project\Image Processing\Image-Processing\img1.jpg").convert("L"))
 #to print the dimensions of img1
 print(img.shape)
-show()
